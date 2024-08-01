@@ -1,7 +1,7 @@
-## Hi there 👋
+## salve tropa 🐔
 
-<!--
-**joseguylherme/joseguylherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![](https://github.com/user-attachments/assets/2a4263f6-8bf7-4c2b-bf9c-336500478585)
